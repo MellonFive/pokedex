@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Pokedex</h1>
+# Projeto Pokedex
 
 Uma pokedex para saber mais sobre APIs
 
