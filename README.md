@@ -4,7 +4,7 @@ Uma pokedex para saber mais sobre APIs
 
 ## Link do vídeo: https://www.youtube.com/watch?v=SjtdH3dWLa8&t=71s
 
-[<img src="images/tela.gif" alt="gif da tela inicial do projeto xyz">]
+<img src="images/tela.gif" alt="gif da tela inicial do projeto xyz">
 
 ## Tecnologias usadas:
 
