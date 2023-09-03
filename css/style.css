@@ -39,7 +39,7 @@ main {
     color: #aaa;
     top: 54.5%;
     right: 27%;
-    font-size: clamp(8px, 5vw, 25px);
+    font-size: clamp(8px, 5vw, 25px); /*O que o clamp faz mesmo? */
 }
 
 .pokemon__name {
